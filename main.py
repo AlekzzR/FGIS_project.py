@@ -19,6 +19,8 @@ def main():
         <div _ngcontent-c46="" class="limited-text-cell__text">имя_протокола</div>,
             где имя_протокола - это имя из пункта 4
     6.
+    7.
+    8.
 
     :return:
     """
